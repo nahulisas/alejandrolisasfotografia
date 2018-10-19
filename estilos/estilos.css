@@ -519,10 +519,10 @@ input, textarea {
 
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 960px) {
     
     .contenedor {
-        width: 1000px;
+        width: 950px;
     }
     
     
@@ -620,30 +620,7 @@ input, textarea {
     }
 }
 
-@media (min-width: 1440px) {
-    
-    .contenedor {
-        width: 1300px;
-    }
-    
-    .sobremi img {
-        height: 400px;
-        object-fit: cover;
-    }
-    
-    .galeria img {
-        height: 400px;
-    }
-    
-    .servicios img {
-        height: 400px;
-    }
-    
-    
 
-    
-    
-}
 
 
 
